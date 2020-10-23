@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="admin_user.php" server="192.168.1.144" local="132360902768570231" remote="132360956400000000" Dst="0" />
+<file name="home.php" server="192.168.1.144" local="132360900851379073" remote="132360955200000000" Dst="0" />
+<file name="login.php" server="192.168.1.144" local="132360890815027297" remote="132360944400000000" Dst="0" />
+<file name="register.php" server="192.168.1.144" local="132360890428495266" remote="132360944400000000" Dst="0" />
+<file name="index.php" server="192.168.1.144" local="132360890663831241" remote="132360944400000000" Dst="0" />
+<file name="AdminController.php" server="192.168.1.144" local="132360896043263824" remote="132360949800000000" Dst="0" />
+<file name="admin_comp.php" server="192.168.1.144" local="132360901496931553" remote="132360955200000000" Dst="0" />
+<file name="admin_news.php" server="192.168.1.144" local="132360902332978149" remote="132360956400000000" Dst="0" />
+<file name="admin_session.php" server="192.168.1.144" local="132360902588121182" remote="132360956400000000" Dst="0" />
+<file name="stock_single.php" server="192.168.1.144" local="132362698511345343" remote="132362752200000000" Dst="0" />
+<file name="portfolio.php" server="192.168.1.144" local="132362698262379829" remote="132362752200000000" Dst="0" />
+<file name="markets.php" server="192.168.1.144" local="132362696178934222" remote="132362752200000000" Dst="0" />
+<file name="ClientController.php" server="192.168.1.144" local="132362550458538028" remote="132362604600000000" Dst="0" />
+<file name="AdminController.php" server="ftp.frestive.online" local="132405758767316821" remote="132405614400000000" Dst="0" />
+<file name="admin_comp.php" server="ftp.frestive.online" local="132417346670835913" remote="132417202200000000" Dst="0" />
+<file name="admin_funds.php" server="ftp.frestive.online" local="132417346405646533" remote="132417202200000000" Dst="0" />
+<file name="admin_mods.php" server="ftp.frestive.online" local="132417346065964552" remote="132417201600000000" Dst="0" />
+<file name="admin_news.php" server="ftp.frestive.online" local="132417345881924445" remote="132417201600000000" Dst="0" />
+<file name="admin_session.php" server="ftp.frestive.online" local="132417345176327003" remote="132417201000000000" Dst="0" />
+<file name="admin_user.php" server="ftp.frestive.online" local="132417344673174449" remote="132417200400000000" Dst="0" />
+<file name="admin_stats.php" server="ftp.frestive.online" local="132417345017559101" remote="132417201000000000" Dst="0" />
+<file name="ClientController.php" server="ftp.frestive.online" local="132417354739483976" remote="132417210600000000" Dst="0" />
+<file name="DatabaseConnection.php" server="ftp.frestive.online" local="132411984970970018" remote="132396505200000000" Dst="0" />
+<file name="FunctionsController.php" server="ftp.frestive.online" local="132417348177902846" remote="132417204000000000" Dst="0" />
+<file name="home.php" server="ftp.frestive.online" local="132417341261564294" remote="132417197400000000" Dst="0" />
+<file name="index.php" server="ftp.frestive.online" local="132360890663831241" remote="132396503400000000" Dst="0" />
+<file name="login.php" server="ftp.frestive.online" local="132369886553802895" remote="132396503400000000" Dst="0" />
+<file name="LoginController.php" server="ftp.frestive.online" local="132351807705603993" remote="132396503400000000" Dst="0" />
+<file name="logout.php" server="ftp.frestive.online" local="132352646119983538" remote="132396503400000000" Dst="0" />
+<file name="markets.php" server="ftp.frestive.online" local="132417351731345980" remote="132417211800000000" Dst="0" />
+<file name="portfolio.php" server="ftp.frestive.online" local="132417349633423688" remote="132417205200000000" Dst="0" />
+<file name="register.php" server="ftp.frestive.online" local="132360890428495266" remote="132396504000000000" Dst="0" />
+<file name="rnd.php" server="ftp.frestive.online" local="132354960870544919" remote="132396504000000000" Dst="0" />
+<file name="RegisterController.php" server="ftp.frestive.online" local="132356884518148829" remote="132396504000000000" Dst="0" />
+<file name="SessionHandler.php" server="ftp.frestive.online" local="132413053528370286" remote="132412909200000000" Dst="0" />
+<file name="Settings.php" server="ftp.frestive.online" local="132412020133265973" remote="132411876000000000" Dst="0" />
+<file name="stock_single.php" server="ftp.frestive.online" local="132417354950736139" remote="132417210600000000" Dst="0" />
+<file name="testing_a.php" server="ftp.frestive.online" local="132411969356954195" remote="132411825000000000" Dst="0" />
+<file name="admin_rep_view.php" server="ftp.frestive.online" local="132417347272522764" remote="132417202800000000" Dst="0" />
+<file name="session_completed.php" server="ftp.frestive.online" local="132413056243949184" remote="132412912200000000" Dst="0" />
+</dwsync>

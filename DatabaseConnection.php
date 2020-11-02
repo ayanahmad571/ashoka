@@ -1,12 +1,5 @@
 <?php
-/*
-$servername = "localhost";
-$username = "u448825944_ashoka_stock";
-$password = "s;op!pE3:j2uti4egnjvd";
-$dbname = "u448825944_ashoka_stock";
 
-
-*/
 
 
 $servername = "localhost";

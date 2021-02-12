@@ -8,13 +8,7 @@ $password = "";
 $dbname = "a_stk_mktmck";
 
 
-/*
 
-ftp:
-u448825944.stocks_ashoka
-|gcOOU@4g
-
-*/
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
